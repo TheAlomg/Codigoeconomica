@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|c:\\users\\aleja.desktop-c9u6pro\\documents\\universidad\\economica\\calculadoraeconomica-main\\presentacion\\capitalizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\capitalizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\presentacion\\amortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\amortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\presentacion\\simple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\simple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\presentacion\\capitalizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\capitalizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\presentacion\\compuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\compuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\presentacion\\simple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\simple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\presentacion\\gradiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\gradiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\presentacion\\gradiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D0E90CE-A664-4A83-A2DD-939475EB5527}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\gradiente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Capitalizacion.cs",
+              "DocumentMoniker": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Capitalizacion.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Capitalizacion.cs",
+              "ToolTip": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Capitalizacion.cs",
+              "RelativeToolTip": "Presentacion\\Capitalizacion.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAlwB4BAADUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:20:26.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Simple.cs",
+              "DocumentMoniker": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Simple.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Simple.cs",
+              "ToolTip": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Simple.cs",
+              "RelativeToolTip": "Presentacion\\Simple.cs",
+              "ViewState": "AQIAANoCAAAAAAAAAAAAAOwCAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T03:57:09.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Capitalizacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Capitalizacion.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Capitalizacion.cs",
+              "ToolTip": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Capitalizacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Capitalizacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T04:19:34.576Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Amortizacion.cs",
+              "DocumentMoniker": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Amortizacion.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Amortizacion.cs",
+              "ToolTip": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Amortizacion.cs",
+              "RelativeToolTip": "Presentacion\\Amortizacion.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAANMAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T01:47:32.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Simple.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Simple.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Simple.cs",
+              "ToolTip": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Simple.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Simple.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T06:31:25.099Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gradiente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Gradiente.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Gradiente.cs",
+              "ToolTip": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Gradiente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\Gradiente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:57:26.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Gradiente.cs",
+              "DocumentMoniker": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Gradiente.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Gradiente.cs",
+              "ToolTip": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Gradiente.cs",
+              "RelativeToolTip": "Presentacion\\Gradiente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T00:57:47.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Compuesto.cs",
+              "DocumentMoniker": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Compuesto.cs",
+              "RelativeDocumentMoniker": "Presentacion\\Compuesto.cs",
+              "ToolTip": "C:\\Users\\aleja.DESKTOP-C9U6PRO\\Documents\\Universidad\\Economica\\CalculadoraEconomica-main\\Presentacion\\Compuesto.cs",
+              "RelativeToolTip": "Presentacion\\Compuesto.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAowBICAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:16:21.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
